@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.seleniumhq.selenium:selenium-java:2.25.0">
+    <CLASSES>
+      <root url="jar://C:\play\repository\local\org.seleniumhq.selenium\selenium-java\2.25.0\jars\selenium-java.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>
